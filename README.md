@@ -1,1 +1,2 @@
-Режим вывода команд на экран (ECHO) включен.
+react application
+deploy - https://react-les.web.app/
